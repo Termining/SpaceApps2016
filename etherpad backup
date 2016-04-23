@@ -1,0 +1,183 @@
+Links
+
+Asteroid Mining of Water
+http://www.space.com/30582-asteroid-mining-water-propulsion.html
+
+> 2016 Space Apps Challenge Resources https://github.com/SpaceApps2016/Resources
+> Asteroid velocities http://www.brighthub.com/science/space/articles/64710.aspx
+> Company that constructed a plasma drill that can be used for asteroid mining http://www.zaptec.com/zapspace/#astroide
+
+> Video:  https://www.youtube.com/watch?time_continue=9&v=VLouRKHknOU
+> Video2 Deep Space industries  https://deepspaceindustries.com/
+
+>Material Mining: http://www.permanent.com/asteroid-mining.html !!!
+
+
+Info
+
+Αποσταση αστεροειδους
+Συσταση αστεροειδους
+Asteroid size (no mining for <100m sized asteroids, Dr. Elvis)
+
+Asteroid orbitalspeed (velocity orbiting the sun) 25 km/s
+About 10near earth asteroids worth mining
+1% of asteroids detected so far
+asteroids orbit in the same direction around the sun as the earth 
+A smaller odd-shaped asteroid will fall slower through the air than a perfect spherical asteroid.
+Dr. Martin Elvis
+Most all of the "spinning" done in our solar system is, when viewed from "the top", counterclockwise.
+http://www.astrovox.gr/
+Ολοι οι γνωστοί αστεροειδείς μαζί ζυγίζουν λιγότερο από το ένα δέκατο της σελήνης οπότε η παρουσία τους στο ηλιακό σύστημα είναι σχετικά ασήμαντη. ;;; το ψαχνουμε
+An asteroid approaching earth is not as fast as presumed. Since asteroids orbit in the same direction around the sun as the earth does, they approach at a slow speed.
+
+Σε κάθε ουράνιο σώμα παρατηρείται διαφορετική ένταση βαρύτητας, συνεπώς διαφορετική είναι και η ταχύτητα διαφυγής (διαφυγη απο τη βαρυτητα του σωματος) η οποία μειώνεται υψομετρικά από την επιφάνειά του. Όσο πιο μακριά βρίσκονται τα κέντρα των μαζών δύο σωμάτων, τόσο μικρότερη είναι η ταχύτητα διαφυγής του ενός ως προς το άλλο. Η ταχύτητα διαφυγής δίνεται από τις ακόλουθες μαθηματικές σχέσεις:
+    (1/2)*m*ve^2 = (G*M*m)/r
+    ve = [(2G*M)/r]
+Όπου ve = ταχύτητα διαφυγής, G = η παγκόσμια σταθερά της βαρύτητας, m = η μάζα του πυραύλου ή διαστημοπλοίου -- σε εμας θα ειναι η μαζα του αστεροειδους, Μ = η μάζα του ουράνιου σώματος και r = η ακτίνα του ουράνιου σώματος.
+
+Τυπος Elvis 
+Γινομενο πιθανοτητων
+
+    Πιθανοτητα ο αστεροειδης να εχει πορους
+
+    Πιθανοτητα να εχει μεγαλη ποσοτητα απο τους πορους αυτους
+
+    Πιθανοτητα προσβασης στον αστεροειδη
+
+    Πιθανοτητα επιτυχους εξορυξης
+
+    Αριθμος αστεροειδων αξιολογων να γινει εξορυξη απο αυτους ( > 100m)
+
+
+    Types of asteroids
+
+    Carbon-rich (containing water)
+
+    Metal-rich (iron, nickel, cobalt)
+
+    Metal-rich (larger amounts of metal)
+
+
+Platinum, palladium, water worth mining
+
+http://news.discovery.com/space/asteroids-meteors-meteorites/top-10-asteroid-deflection-130130.htm
+
+http://www.universetoday.com/90798/every-way-devised-to-deflect-an-asteroid/
+
+Nice video with facts and numbers on near-eath asteroid mining https://www.youtube.com/watch?v=dVzR0kzklRE
+
+Brainstorming
+
+1. Deflection of the orbit of an asteroid with laser beam, so that it hit the moon's surface and other missions get the minerals from the moon.
+    Problems of this scenario:  If something goes wrong maybe the asteroid hit the earth. The asteroid maybe will burried deep into the moon. 
+    
+2. Deflection of two asteroid's orbits so that hit each other. And as result we have a new asteroid in orbit around earth.
+     Problems of this scenario: Dangerous. Not controlable such a hit.
+     
+3. Change asteroid orbit for:
+
+    A close flyby that will provide sufficient time for miing
+
+    Entering an earth/moon centered orbit allowing time for total exploitation
+
+4. Asteroid scouting
+
+    Using earth orbiting telescope with HS sensor
+
+    Using swarm of self organized telescopes with orbits convenien for asteroid detection
+
+5. 
+
+Material detection
+http://www.spectir.com/applications/geologic-airborne-hyperspectral/
+
+
+Possible asteroids for mining
+
+1. Eros 433   https://en.wikipedia.org/wiki/433_Eros
+2-600001 http://www.asterank.com/
+
+Main Idea
+1."Mother" spacecraft after spectre analysis sends robots
+2.Many robots autonomous after some point
+
+Asteroid deflection
+
+    Solar sail
+
+    Mirrors (gather sunlight on a specific spot of the asteroid and turn it into gas - momentum maintenance)
+
+    Laser system into space (same as before)
+
+    Robots attached to asteroid surface extracting asteroid mass (momentum maintenance)
+
+
+Mining methods
+
+    Spalling (high temperature and pressure)
+
+
+Metal mining methods
+
+    pit mining : drills open holes (explosion : ammonium nitrate and fuel oil breaks metal bulk into pieces
+
+    melt down asteroids using solar energy
+
+
+Despinning
+
+    with string attachment
+
+    For a 100 meter diameter asteroid rotating 4 times per day, about 29 tons of fuel would be needed to despin the asteroid.
+
+    with explosion?
+
+    For bigger asteroids, or for a low-budget operation on a small asteroid, it's probably better to let the asteroid keep spinning and just attach the industry to the pole of rotation using a rotary joint.
+
+
+
+Tasks
+Develop an approach for characterizing the composition of asteroid for mining potential
+
+    Long range spectroscopy and object classification.
+
+    utilizing hyperspectral sensors, the reflected light on each wavelength will be compared against the spectral signature of materials know to be present on asteroids.
+
+    Once materials are identified, an asteroid is classified based on its composition, size, and orbit. This will be used for deciding mining priorities (are we using an automated mining decision system?) 
+
+    When near an asteroid, same type of sensors and additional LiDAR can be used to further analyze the asteroid creating a resource map that will be used to guide the mining process.
+
+    Perform a soundradar scan using attached survey bots creating a 3D reprsenation of the asteroid's inner structure (detecting cavities, possible gas pockets etc)
+
+
+Explore a possible division of labor involving different types of vehicles
+
+    Water extraction miner robot
+
+    Metal extraction robot
+
+    Material separation robot
+
+    Orbit modification and Asteroid stabilization robot
+
+    Asteroid processing plant (hosts robots and does material processing)
+
+    Cargo transport vessel
+
+Asteroid attachment methods:
+    Drill hook
+    Magnetic pull (for metal asteroids)
+    Continuous propulsion
+    Hexagon Zip Tie
+Material extraction methods
+
+Consider solutions for moving said asteroids between different orbits
+
+
+Possible names of our solution
+
+Swarm ...
+Termining (selected)
+
+
+
